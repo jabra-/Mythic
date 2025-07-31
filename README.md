@@ -22,7 +22,7 @@ A cross-platform, post-exploit, red teaming framework built with GoLang, docker,
 
 ## Starting Mythic
 
-Mythic is controlled via the `mythic-cli` binary. To generate the binary, run `sudo make` from the main Mythic directory. 
+test Mythic is controlled via the `mythic-cli` binary. To generate the binary, run `sudo make` from the main Mythic directory. 
 From there, you can run `sudo ./mythic-cli start` to bring up all default Mythic containers.
 
 More specific setup instructions, configurations, examples, screenshots, and more can be found on the [Mythic Documentation](https://docs.mythic-c2.net) website.
